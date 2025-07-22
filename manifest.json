@@ -1,0 +1,23 @@
+{
+    "name": "Официальный диллер LADA",
+    "short_name": "LADA PWA",
+    "start_url": "/index.html",
+
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#003333",
+    "description": "Интерактивный выбор автомобиля LADA",
+    "icons": [
+      {
+        "src": "teme-192.jpeg",
+        "type": "/teme/teme-192.jpeg",
+        "sizes": "192x192"
+      },
+      {
+        "src": "teme-512.jpeg",
+        "type": "/teme/teme-512.jpeg",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
