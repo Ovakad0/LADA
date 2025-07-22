@@ -1,4 +1,4 @@
-const CACHE_NAME = "ntagil-pwa-v1";
+const CACHE_NAME = "lada-pwa-v1";
 const urlsToCache = [
     '/',
     '/index.html',
@@ -8,12 +8,12 @@ const urlsToCache = [
     '/granta.html',
     '/aura.html',
     '/css/style.css',
-    '/img/aura.jpeg',
-    '/img/emblema.jpeg',
-	'/img/granta.jpeg'
-	'/img/iskra.jpeg'
-	'/img/niva-sport.jpeg'
-	'/img/vesta.jpeg'
+    '/img/aura.jpg',
+    '/img/emblema.jpg',
+	'/img/granta.jpg'
+	'/img/iskra.jpg'
+	'/img/niva-sport.jpg'
+	'/img/vesta.jpg'
     '/manifest.json'
   ];
   
