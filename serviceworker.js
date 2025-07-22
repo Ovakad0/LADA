@@ -10,10 +10,10 @@ const urlsToCache = [
     '/css/style.css',
     '/img/aura.jpg',
     '/img/emblema.jpg',
-	'/img/granta.jpg'
-	'/img/iskra.jpg'
-	'/img/niva-sport.jpg'
-	'/img/vesta.jpg'
+	'/img/granta.jpg',
+	'/img/iskra.jpg',
+	'/img/niva-sport.jpg',
+	'/img/vesta.jpg',
     '/manifest.json'
   ];
   
