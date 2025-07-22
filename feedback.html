@@ -1,0 +1,51 @@
+<html>
+<head>
+  <title>Обратная связь | LADA</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Обратная связь</h1>
+  </header>
+
+  <div class="feedback-container">
+    <main class="feedback-form">
+      <h2>Свяжитесь с нами</h2>
+      <form action="send_feedback.php" method="POST">
+        <div class="form-group">
+          <label for="name">Имя:</label>
+          <input type="text" id="name" name="name" required>
+        </div>
+        
+        <div class="form-group">
+          <label for="surname">Фамилия:</label>
+          <input type="text" id="surname" name="surname" required>
+        </div>
+        
+        <div class="form-group">
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+        </div>
+        
+        <div class="form-group">
+          <label for="question">Ваш вопрос:</label>
+          <textarea id="question" name="question" rows="5" required></textarea>
+        </div>
+        
+        <button type="submit" class="submit-btn">Отправить</button>
+      </form>
+    </main>
+  </div>
+	<nav class="model-nav">
+      <a href="index.html">Главная</a>
+      <a href="granta.html">Granta</a>
+      <a href="niva-sport.html">Niva Sport</a>
+      <a href="iskra.html">Iskra</a>
+      <a href="vesta.html">Vesta</a>
+      <a href="aura.html">Aura</a>
+    </nav>
+  <footer>
+    <p>© 2025 Официальный дилер LADA</p>
+  </footer>
+</body>
+</html>
